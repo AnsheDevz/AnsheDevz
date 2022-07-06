@@ -4,7 +4,7 @@
 ```js
 const Anshe = {
   
-  pronouns: "coca" | "him",
+  pronouns: "he" | "him",
   code: [HTML, CSS]
   tools: [...]
 }
