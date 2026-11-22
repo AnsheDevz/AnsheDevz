@@ -1,6 +1,6 @@
 # Hola, soy Tomás 👋
 
-Desarrollador frontend junior en Buenos Aires, Argentina. Trabajo con **React y JavaScript**, vengo de roles de soporte técnico y administración, y estoy buscando mi primera posición como dev (trainee / junior) o en soporte IT. Inglés C1 certificado.
+Desarrollador frontend junior en Buenos Aires, Argentina. Trabajo con **React y JavaScript**, vengo de roles de soporte técnico y administración, y estoy buscando ampliar mis experiencias laborales como dev (trainee / junior) o en soporte IT. Inglés C1 certificado.
 
 ## 🛠️ Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
